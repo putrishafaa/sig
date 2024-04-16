@@ -1361,7 +1361,7 @@ L.control
 	.layers(
 		baseMaps,
 		{
-			'<img style="width: 50px" src="/img/KantorBupati_9.png" /> Kantor Bupati':
+			'<img style="width: 50px" src="\img\kantorbupati_9.png" /> Kantor Bupati':
 				layer_KantorBupati_9,
 			'<img style="width: 50px" src="/img/kantorcamat_8.png" /> kantor camat':
 				layer_kantorcamat_8,
