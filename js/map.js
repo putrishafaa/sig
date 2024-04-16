@@ -1361,23 +1361,23 @@ L.control
 	.layers(
 		baseMaps,
 		{
-			'<img style="width: 50px" src="../img/KantorBupati_9.png" /> Kantor Bupati':
+			'<img style="width: 50px" src="/img/KantorBupati_9.png" /> Kantor Bupati':
 				layer_KantorBupati_9,
-			'<img style="width: 50px" src="../img/kantorcamat_8.png" /> kantor camat':
+			'<img style="width: 50px" src="/img/kantorcamat_8.png" /> kantor camat':
 				layer_kantorcamat_8,
-			'<img style="width: 50px" src="../img/kantorkepaladesa_7.png" /> kantor kepala desa':
+			'<img style="width: 50px" src="/img/kantorkepaladesa_7.png" /> kantor kepala desa':
 				layer_kantorkepaladesa_7,
-			'<img style="width: 50px" src="../img/Jalan_6.png" /> Jalan':
+			'<img style="width: 50px" src="/img/Jalan_6.png" /> Jalan':
 				layer_Jalan_6,
-			'<img style="width: 50px" src="../img/Sungai_5.png" /> Sungai':
+			'<img style="width: 50px" src="/img/Sungai_5.png" /> Sungai':
 				layer_Sungai_5,
-			'<img style="width: 50px" src="../img/pemerintahansleman_4.png" /> pemerintahan sleman':
+			'<img style="width: 50px" src="/img/pemerintahansleman_4.png" /> pemerintahan sleman':
 				layer_pemerintahansleman_4,
-			'<img style="width: 50px" src="../img/sawah_3.png" /> sawah':
+			'<img style="width: 50px" src="/img/sawah_3.png" /> sawah':
 				layer_sawah_3,
-			'<img style="width: 50px" src="../img/sawahtadahhujan_2.png" /> sawah tadah hujan':
+			'<img style="width: 50px" src="/img/sawahtadahhujan_2.png" /> sawah tadah hujan':
 				layer_sawahtadahhujan_2,
-			'<img style="width: 50px" src="../img/DesaSleman_1.png" /> Desa Sleman':
+			'<img style="width: 50px" src="/img/DesaSleman_1.png" /> Desa Sleman':
 				layer_DesaSleman_1,
 			"OSM Standard": layer_OSMStandard_0,
 		},
